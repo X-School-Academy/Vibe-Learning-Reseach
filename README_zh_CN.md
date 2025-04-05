@@ -2,5 +2,6 @@
 <div align="center">
   <a href="./README.md"><strong>English</strong></a> | <strong>简体中文</strong>
   <br/>
+  <br/>
   <a href="./vibe-learning_zh_CN.md"><strong>论文内容</strong></a>
 </div>
