@@ -3,5 +3,5 @@
   <a href="./README.md"><strong>English</strong></a> | <strong>简体中文</strong>
   <br/>
   <br/>
-  <a href="./vibe-learning_zh_CN.md"><strong>论文内容</strong></a> | <a href="https://chatgpt.com/g/g-67f0e2a0fd1c8191adbc37d924f8986c-fen-wei-xue-xi-fa"><strong>GPT 应用</strong><</a> | <a href="./gpt-app-instruction_zh_CN.md"><strong>GPT 应用提示词</strong><</a>
+  <a href="./vibe-learning_zh_CN.md"><strong>论文内容</strong></a> | <a href="https://chatgpt.com/g/g-67f0e2a0fd1c8191adbc37d924f8986c-fen-wei-xue-xi-fa"><strong>GPT 应用</strong></a> | <a href="./gpt-app-instruction_zh_CN.md"><strong>GPT 应用提示词</strong></a>
 </div>
