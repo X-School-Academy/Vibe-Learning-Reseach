@@ -3,5 +3,5 @@
   <strong>English</strong> | <a href="./README_zh_CN.md"><strong>简体中文</strong></a>
   <br/>
   <br/>
-  <a href="./vibe-learning.md"><strong>The content of the paper</strong></a>
+  <a href="./vibe-learning.md"><strong>The content of the paper</strong></a> | <a href="https://chatgpt.com/g/g-67f0ddc7c3d88191b7966a0ea4960626-vibe-learning">GPT App</>
 </div>
